@@ -12,13 +12,9 @@ namespace poker
 {
     public partial class Form1 : Form
     {
-        public system sys = new system();
-
         public Form1()
         {
             InitializeComponent();
-            // load cards
-            sys.loadcards();
         }
     }
 }
