@@ -27,7 +27,7 @@ namespace poker
 
         public enum cardType
         {
-            harten,schoppen,klaveren,ruiten
+            hearts,spades,clubs,diamonds
         }
     }
 }
